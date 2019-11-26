@@ -9,5 +9,9 @@ def my_each(array)
 
     array
   else
-    raise "This block should not run!"    
+    raise "This block should not run!"  
+  end    
 end
+
+# my_each(array) do |words|
+#   if words.
