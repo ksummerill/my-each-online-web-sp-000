@@ -12,6 +12,3 @@ def my_each(array)
     raise "This block should not run!"
   end
 end
-
-# my_each(array) do |words|
-#   if words.
